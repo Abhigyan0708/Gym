@@ -1,0 +1,6 @@
+{
+  "name": "Gym Junkies",
+  "description": "A premium, high-energy gym landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
